@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+  <catalogue>
+    <album>
+      <name>Mama, ya vlubilas</name>
+      <artist>Hanna</artist>
+      <year>2015</year>
+      <producer>Hanna</producer>
+      <price>21.99</price>
+      <songs>
+        <song>
+          <title>Mama, ya vlubilas</title>
+          <duration>2:42</duration>
+        </song>
+
+        <song>
+          <title>Skromnim bud ne v mode</title>
+          <duration>3:19</duration>
+        </song>
+
+        <song>
+          <title>Poteryala golovu</title>
+          <duration>4:25</duration>
+        </song>
+      </songs>
+    </album>
+
+    <album>
+      <name>Obedinenie</name>
+      <artist>Nyusha</artist>
+      <year>2014</year>
+      <producer>Nyusha</producer>
+      <price>24.99</price>
+      <songs>
+        <song>
+          <title>Cunami</title>
+          <duration>4:26</duration>
+        </song>
+
+        <song>
+          <title>World needs your love</title>
+          <duration>4:36</duration>
+        </song>
+
+        <song>
+          <title>Istoriya strannika</title>
+          <duration>3:59</duration>
+        </song>
+      </songs>
+    </album>
+
+    <album>
+      <name>Vuybirat chudo</name>
+      <artist>Nyusha</artist>
+      <year>2010</year>
+      <producer>Nyusha</producer>
+      <price>24.99</price>
+      <songs>
+        <song>
+          <title>Vuybirat chudo</title>
+          <duration>4:27</duration>
+        </song>
+
+        <song>
+          <title>Ti obeshtal</title>
+          <duration>3:28</duration>
+        </song>
+
+        <song>
+          <title>Angel</title>
+          <duration>3:04</duration>
+        </song>
+      </songs>
+    </album>
+
+    <album>
+      <name>Dale</name>
+      <artist>Pitbull</artist>
+      <year>2015</year>
+      <producer>Mr. 305</producer>
+      <price>20.00</price>
+      <songs>
+        <song>
+          <title>Yo Quiero</title>
+          <duration>3:28</duration>
+        </song>
+
+        <song>
+          <title>El party</title>
+          <duration>3:55</duration>
+        </song>
+
+        <song>
+          <title>Chi Chi Bon Bon</title>
+          <duration>3:37</duration>
+        </song>
+      </songs>
+    </album>
+  </catalogue>

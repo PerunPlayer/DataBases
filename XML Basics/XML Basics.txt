@@ -1,0 +1,6 @@
+What does the XML language represent? What is it used for?
+	XML stands for eXtensible Markup Language.
+	It's used to markup or describe data.
+
+What do namespaces represent in an XML document? What are they used for?
+	XML namespaces provide a method to avoid element name conflicts.

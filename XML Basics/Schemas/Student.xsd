@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xs:schema xmlns:tns="https://www.w3.org/students" targetNamespace="https://www.w3.org/students" xmlns:xs="http://www.w3.org/2001/XMLSchema">
+  <xs:import namespace="https://www.w3.org/exams" />
+  <xs:element name="students">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element name="student">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="name" type="xs:string" />
+              <xs:element name="gender" type="xs:string" />
+              <xs:element name="birthdate" type="xs:string" />
+              <xs:element name="phone" type="xs:string" />
+              <xs:element name="email" type="xs:string" />
+              <xs:element name="course" type="xs:string" />
+              <xs:element name="specialty" type="xs:string" />
+              <xs:element name="facultynumber" type="xs:string" />
+              <xs:element name="exams">
+                <xs:complexType>
+                  <xs:sequence>
+                    <xs:element xmlns:q1="https://www.w3.org/exams" ref="q1:exam" />
+                  </xs:sequence>
+                </xs:complexType>
+              </xs:element>
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+</xs:schema>
