@@ -1,0 +1,10 @@
+USE Computers;
+GO
+CREATE SCHEMA Computers;
+GO
+CREATE SCHEMA CPU;
+GO
+CREATE SCHEMA [Storage Device];
+GO
+CREATE SCHEMA GPU;
+GO

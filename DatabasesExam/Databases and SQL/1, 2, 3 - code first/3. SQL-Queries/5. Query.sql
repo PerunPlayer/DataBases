@@ -1,0 +1,1 @@
+SELECT Fraction FROM SuperheroUniverse

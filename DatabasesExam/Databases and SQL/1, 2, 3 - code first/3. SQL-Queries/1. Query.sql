@@ -1,0 +1,1 @@
+SELECT Superheroes FROM SuperheroesUniverse
